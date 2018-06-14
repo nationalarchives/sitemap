@@ -1,2 +1,2 @@
-# sitemap
-A repo about sitemaps
+# Sitemap
+A repo about experimental sitemaps
