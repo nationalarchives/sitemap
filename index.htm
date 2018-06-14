@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+	<head>
+		<script src="https://d3js.org/d3.v3.min.js"></script>
+		<script src="/src/xml2tree.js"></script>
+	</head>
+	<body>
+		<div class="chart1"></div>
+		<script>
+			var elementId = 'chart1';
+			var filePath = '/data/sitemap.xml';
+			var secondLevelNodes = [];
+			var isAttributes = true;
+			var isJSON = false;
+			
+			xml2tree(elementId, filePath, secondLevelNodes, isAttributes, isJSON);
+		</script>
+	</body>
+</html>
