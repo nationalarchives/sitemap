@@ -1,0 +1,302 @@
+[
+  {
+    "name": "education",
+    "url": "http://www.nationalarchives.gov.uk/education/",
+    "level": "1"
+  },
+  {
+    "name": "webarchive",
+    "url": "http://www.nationalarchives.gov.uk/webarchive/",
+    "level": "1"
+  },
+  {
+    "name": "information-management",
+    "url": "http://www.nationalarchives.gov.uk/information-management/",
+    "level": "1"
+  },
+  {
+    "name": "help-with-your-research",
+    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/",
+    "level": "1"
+  },
+  {
+    "name": "help",
+    "url": "http://www.nationalarchives.gov.uk/help/",
+    "level": "1"
+  },
+  {
+    "name": "legal",
+    "url": "http://www.nationalarchives.gov.uk/legal/",
+    "level": "1"
+  },
+  {
+    "name": "rss",
+    "url": "http://www.nationalarchives.gov.uk/rss/",
+    "level": "1"
+  },
+  {
+    "name": "about",
+    "url": "http://www.nationalarchives.gov.uk/about/",
+    "level": "1"
+  },
+  {
+    "name": "archives-sector",
+    "url": "http://www.nationalarchives.gov.uk/archives-sector/",
+    "level": "1"
+  },
+  {
+    "name": "first-world-war",
+    "url": "http://www.nationalarchives.gov.uk/first-world-war/",
+    "level": "1"
+  },
+  {
+    "name": "maps",
+    "url": "http://www.nationalarchives.gov.uk/maps/",
+    "level": "1"
+  },
+  {
+    "name": "trafalgarancestors",
+    "url": "http://www.nationalarchives.gov.uk/trafalgarancestors/",
+    "level": "1"
+  },
+  {
+    "name": "through-a-lens",
+    "url": "http://www.nationalarchives.gov.uk/through-a-lens/",
+    "level": "1"
+  },
+  {
+    "name": "railways",
+    "url": "http://www.nationalarchives.gov.uk/railways/",
+    "level": "1"
+  },
+  {
+    "name": "e179",
+    "url": "http://www.nationalarchives.gov.uk/e179/",
+    "level": "1"
+  },
+  {
+    "name": "cabinetpapers",
+    "url": "http://www.nationalarchives.gov.uk/cabinetpapers/",
+    "level": "1"
+  },
+  {
+    "name": "accessions",
+    "url": "http://www.nationalarchives.gov.uk/accessions/",
+    "level": "1"
+  },
+  {
+    "name": "hospitalrecords",
+    "url": "http://www.nationalarchives.gov.uk/hospitalrecords/",
+    "level": "1"
+  },
+  {
+    "name": "palaeography",
+    "url": "http://www.nationalarchives.gov.uk/palaeography/",
+    "level": "1"
+  },
+  {
+    "name": "latinpalaeography",
+    "url": "http://www.nationalarchives.gov.uk/latinpalaeography/",
+    "level": "1"
+  },
+  {
+    "name": "suffrage-100",
+    "url": "http://www.nationalarchives.gov.uk/suffrage-100/",
+    "level": "1"
+  },
+  {
+    "name": "PRONOM",
+    "url": "http://www.nationalarchives.gov.uk/PRONOM/",
+    "level": "1"
+  },
+  {
+    "name": "designregisters",
+    "url": "http://www.nationalarchives.gov.uk/designregisters/",
+    "level": "1"
+  },
+  {
+    "name": "domesday",
+    "url": "http://www.nationalarchives.gov.uk/domesday/",
+    "level": "1"
+  },
+  {
+    "name": "online-exhibitions",
+    "url": "http://www.nationalarchives.gov.uk/online-exhibitions/",
+    "level": "1"
+  },
+  {
+    "name": "henryviii",
+    "url": "http://www.nationalarchives.gov.uk/henryviii/",
+    "level": "1"
+  },
+  {
+    "name": "films",
+    "url": "http://www.nationalarchives.gov.uk/films/",
+    "level": "1"
+  },
+  {
+    "name": "ufos",
+    "url": "http://www.nationalarchives.gov.uk/ufos/",
+    "level": "1"
+  },
+  {
+    "name": "africa",
+    "url": "http://www.nationalarchives.gov.uk/africa/",
+    "level": "1"
+  },
+  {
+    "name": "panjab1947",
+    "url": "http://www.nationalarchives.gov.uk/panjab1947/",
+    "level": "1"
+  },
+  {
+    "name": "victorians",
+    "url": "http://www.nationalarchives.gov.uk/victorians/",
+    "level": "1"
+  },
+  {
+    "name": "search",
+    "url": "http://www.nationalarchives.gov.uk/search",
+    "level": "1"
+  },
+  {
+    "name": "nelson",
+    "url": "http://www.nationalarchives.gov.uk/nelson/",
+    "level": "1"
+  },
+  {
+    "name": "asia",
+    "url": "http://www.nationalarchives.gov.uk/asia/",
+    "level": "1"
+  },
+  {
+    "name": "americas",
+    "url": "http://www.nationalarchives.gov.uk/americas/",
+    "level": "1"
+  },
+  {
+    "name": "australasia",
+    "url": "http://www.nationalarchives.gov.uk/australasia/",
+    "level": "1"
+  },
+  {
+    "name": "latin",
+    "url": "http://www.nationalarchives.gov.uk/latin/",
+    "level": "1"
+  },
+  {
+    "name": "labels.xml",
+    "url": "http://www.nationalarchives.gov.uk/labels.xml",
+    "level": "1"
+  },
+  {
+    "name": "cabinet-office-100",
+    "url": "http://www.nationalarchives.gov.uk/cabinet-office-100/",
+    "level": "1"
+  },
+  {
+    "name": "black-history",
+    "url": "http://www.nationalarchives.gov.uk/black-history/",
+    "level": "1"
+  },
+  {
+    "name": "agincourt",
+    "url": "http://www.nationalarchives.gov.uk/agincourt/",
+    "level": "1"
+  },
+  {
+    "name": "titanic",
+    "url": "http://www.nationalarchives.gov.uk/titanic/",
+    "level": "1"
+  },
+  {
+    "name": "conscription-appeals",
+    "url": "http://www.nationalarchives.gov.uk/conscription-appeals/",
+    "level": "1"
+  },
+  {
+    "name": "olympics",
+    "url": "http://www.nationalarchives.gov.uk/olympics/",
+    "level": "1"
+  },
+  {
+    "name": "caribbean",
+    "url": "http://www.nationalarchives.gov.uk/caribbean/",
+    "level": "1"
+  },
+  {
+    "name": "humanrights",
+    "url": "http://www.nationalarchives.gov.uk/humanrights/",
+    "level": "1"
+  },
+  {
+    "name": "caribbeanhistory",
+    "url": "http://www.nationalarchives.gov.uk/caribbeanhistory/",
+    "level": "1"
+  },
+  {
+    "name": "slavery",
+    "url": "http://www.nationalarchives.gov.uk/slavery/",
+    "level": "1"
+  },
+  {
+    "name": "theartofwar",
+    "url": "http://www.nationalarchives.gov.uk/theartofwar/",
+    "level": "1"
+  },
+  {
+    "name": "utk",
+    "url": "http://www.nationalarchives.gov.uk/utk/",
+    "level": "1"
+  },
+  {
+    "name": "battles",
+    "url": "http://www.nationalarchives.gov.uk/battles/",
+    "level": "1"
+  },
+  {
+    "name": "dambusters",
+    "url": "http://www.nationalarchives.gov.uk/dambusters/",
+    "level": "1"
+  },
+  {
+    "name": "surgeonsatsea",
+    "url": "http://www.nationalarchives.gov.uk/surgeonsatsea/",
+    "level": "1"
+  },
+  {
+    "name": "spies",
+    "url": "http://www.nationalarchives.gov.uk/spies/",
+    "level": "1"
+  },
+  {
+    "name": "rosenberg",
+    "url": "http://www.nationalarchives.gov.uk/rosenberg/",
+    "level": "1"
+  },
+  {
+    "name": "labs",
+    "url": "http://www.nationalarchives.gov.uk/labs/",
+    "level": "1"
+  },
+  {
+    "name": "documents\\archives\\all-accredited-archive-services-march-2018.xlsx",
+    "url": "http://www.nationalarchives.gov.uk/documents\\archives\\all-accredited-archive-services-march-2018.xlsx",
+    "level": "1"
+  },
+  {
+    "name": "womeninuniform",
+    "url": "http://www.nationalarchives.gov.uk/womeninuniform/",
+    "level": "1"
+  },
+  {
+    "name": "state-secrets",
+    "url": "http://www.nationalarchives.gov.uk/state-secrets/",
+    "level": "1"
+  },
+  {
+    "name": "panjab1947\\default.htm",
+    "url": "http://www.nationalarchives.gov.uk/panjab1947\\default.htm",
+    "level": "1"
+  }
+]

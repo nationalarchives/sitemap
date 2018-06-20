@@ -1,0 +1,1 @@
+\{(\s+)"name": ".+",\1"parent": "education",\1.+\1"level": ".+"\s+("param": ".+"\s+}|})(,|)
