@@ -4,6 +4,11 @@ import NodeLabel from '../components/NodeLabel.js';
 import ArchiveSector from '../maps/ArchiveSector.js';
 import InformationManagement from '../maps/InformationManagement.js';
 import WebArchive from '../maps/WebArchive.js';
+import About from "../maps/About";
+import Help from "../maps/Help";
+import Legal from "../maps/Legal";
+import RSS from "../maps/RSS";
+import HelpWithYourResearch from "../maps/HelpWithYourResearch";
 
 class SitemapSelector extends Component {
     constructor() {
@@ -19,11 +24,26 @@ class SitemapSelector extends Component {
     handleChange(event) {
         let value;
         switch (event.target.value) {
-            case "im":
+            case "infomanage":
                 value = InformationManagement.site;
                 break;
-            case "wa":
+            case "webarc":
                 value = WebArchive.site;
+                break;
+            case "about":
+                value = About.site;
+                break;
+            case "help":
+                value = Help.site;
+                break;
+            case "legal":
+                value = Legal.site;
+                break;
+            case "rss":
+                value = RSS.site;
+                break;
+            case "helpwith":
+                value = HelpWithYourResearch.site;
                 break;
             case "as":
             default:
@@ -43,9 +63,14 @@ class SitemapSelector extends Component {
                     <label>
                         Pick a view: <b/>
                         <select className={"SitemapSelect"} onChange={this.handleChange}>
-                            <option value="as">Archive Sector</option>
-                            <option value="im">Information Management</option>
-                            <option value="wa">Web Archive</option>
+                            <option value="arcsect">Archive Sector</option>
+                            <option value="infomanage">Information Management</option>
+                            <option value="webarc">Web Archive</option>
+                            <option value="about">About</option>
+                            <option value="help">Help</option>
+                            <option value="legal">Legal</option>
+                            <option value="rss">RSS</option>
+                            <option value="helpwith">Help with your research</option>
                         </select>
                     </label>
                 </form>

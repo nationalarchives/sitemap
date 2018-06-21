@@ -2507,5 +2507,6 @@ class ArchiveSector {
                 }
             ]
         }];
+    
 }
 export default ArchiveSector;
