@@ -7,7 +7,7 @@
 /**
  * Declare namespace
  */
-jqSimpleConnect = new Object();
+jqSimpleConnect = {};
 
 /**
  * This member is an auxiliary counter used for generate unique identifiers.
@@ -17,7 +17,7 @@ jqSimpleConnect._idGenerator = 0;
 /**
  * This member is an associative array which contains all the document's connections.
  */
-jqSimpleConnect._connections = new Object();
+jqSimpleConnect._connections = {};
 
 /**
  * Positions a connection, acording to the position of the elements which connects.
@@ -40,7 +40,7 @@ jqSimpleConnect._positionConnection = function(connection) {
     var line3 = jQuery('#' + connection.id + '_3');
 
     // Verify if the elements are aligned in a horizontal or vertical line.
-    if(posA.left == posB.left || posA.top == posB.top) {
+    if(posA.left === posB.left || posA.top === posB.top) {
         // Uses only one line (hide the other two).
         line1.show();
         line2.hide();
