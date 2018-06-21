@@ -80,42 +80,6 @@
     "level": "2"
   },
   {
-    "name": "browse-guidance-standards",
-    "parent": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/browse-guidance-standards/",
-    "level": "2"
-  },
-  {
-    "name": "manage-information",
-    "parent": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/manage-information/",
-    "level": "2"
-  },
-  {
-    "name": "re-using-public-sector-information",
-    "parent": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/",
-    "level": "2"
-  },
-  {
-    "name": "producing-official-publications",
-    "parent": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/producing-official-publications/",
-    "level": "2"
-  },
-  {
-    "name": "legislation",
-    "parent": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/legislation/",
-    "level": "2"
-  },
-  {
-    "name": "training",
-    "parent": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/training/",
-    "level": "2"
-  },
-  {
     "name": "our-research-and-academic-collaboration",
     "parent": "about",
     "url": "http://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/",
@@ -153,24 +117,6 @@
     "level": "2"
   },
   {
-    "name": "atoz",
-    "parent": "webarchive",
-    "url": "http://www.nationalarchives.gov.uk/webarchive/atoz/",
-    "level": "2"
-  },
-  {
-    "name": "information",
-    "parent": "webarchive",
-    "url": "http://www.nationalarchives.gov.uk/webarchive/information/",
-    "level": "2"
-  },
-  {
-    "name": "guidance",
-    "parent": "webarchive",
-    "url": "http://www.nationalarchives.gov.uk/webarchive/guidance/",
-    "level": "2"
-  },
-  {
     "name": "record-copying-prices.pdf",
     "parent": "documents",
     "url": "http://www.nationalarchives.gov.uk/documents/record-copying-prices.pdf",
@@ -204,12 +150,6 @@
     "name": "reading-old-documents",
     "parent": "help-with-your-research",
     "url": "http://www.nationalarchives.gov.uk/help-with-your-research/reading-old-documents/",
-    "level": "2"
-  },
-  {
-    "name": "keeping-touch",
-    "parent": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/keeping-touch/",
     "level": "2"
   },
   {

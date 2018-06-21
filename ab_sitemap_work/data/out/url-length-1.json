@@ -1,20 +1,5 @@
 [
   {
-    "name": "webarchive",
-    "url": "http://www.nationalarchives.gov.uk/webarchive/",
-    "level": "1"
-  },
-  {
-    "name": "information-management",
-    "url": "http://www.nationalarchives.gov.uk/information-management/",
-    "level": "1"
-  },
-  {
-    "name": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/",
-    "level": "1"
-  },
-  {
     "name": "help",
     "url": "http://www.nationalarchives.gov.uk/help/",
     "level": "1"
