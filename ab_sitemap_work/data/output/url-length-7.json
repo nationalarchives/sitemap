@@ -62,34 +62,6 @@
     "param": "catID=2&subCatID=2&filmID=4"
   },
   {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fprivacy-policy%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fprivacy-policy%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fcrown-copyright-and-our-website%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fcrown-copyright-and-our-website%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fdigital-copies-of-documents%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fdigital-copies-of-documents%2F&format=xml"
-  },
-  {
     "name": "ukpga-2004-27.pdf",
     "parent": "07",
     "url": "http://www.nationalarchives.gov.uk/wp-content/uploads/sites/29/2016/07/ukpga-2004-27.pdf",
@@ -118,69 +90,6 @@
     "parent": "01",
     "url": "http://www.nationalarchives.gov.uk/wp-content/uploads/sites/13/2016/01/Discovery-Copenhagen-Paper-Jonathan-Cates-2.pdf",
     "level": "7"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fimage-reproduction%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fimage-reproduction%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fcreative-commons-and-photo-sharing%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcopyright%2Fcreative-commons-and-photo-sharing%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Ftakedown-and-reclosure-policy%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Ftakedown-and-reclosure-policy%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Frecord-copying%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Frecord-copying%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fbooking-events%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fbooking-events%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fuser-participation%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fuser-participation%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Four-fees%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Four-fees%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Finformation-we-collect-online%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Finformation-we-collect-online%2F&format=xml"
-  },
-  {
-    "name": "embed",
-    "parent": "1.0",
-    "url": "http://www.nationalarchives.gov.uk/legal/wp-json/oembed/1.0/embed/?url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcookies%2F&format=xml",
-    "level": "7",
-    "param": "url=http%3A%2F%2Flegal.livelb.nationalarchives.gov.uk%2Fcookies%2F&format=xml"
   },
   {
     "name": "archive.asp",

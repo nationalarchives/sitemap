@@ -1,121 +1,13 @@
 [
   {
-    "name": "news.xml",
-    "parent": "rss",
-    "url": "http://www.nationalarchives.gov.uk/rss/news.xml",
-    "level": "2"
-  },
-  {
-    "name": "foireleasesnews.xml",
-    "parent": "rss",
-    "url": "http://www.nationalarchives.gov.uk/rss/foireleasesnews.xml",
-    "level": "2"
-  },
-  {
-    "name": "podcasts.xml",
-    "parent": "rss",
-    "url": "http://www.nationalarchives.gov.uk/rss/podcasts.xml",
-    "level": "2"
-  },
-  {
     "name": "wlwmanifest.xml",
     "parent": "wp-includes",
     "url": "http://www.nationalarchives.gov.uk/wp-includes/wlwmanifest.xml",
     "level": "2"
   },
-  {
-    "name": "our-role",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/our-role/",
-    "level": "2"
-  },
-  {
-    "name": "visit-us",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/visit-us/",
-    "level": "2"
-  },
-  {
-    "name": "jobs",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/jobs/",
-    "level": "2"
-  },
-  {
-    "name": "get-involved",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/get-involved/",
-    "level": "2"
-  },
-  {
-    "name": "news",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/news/",
-    "level": "2"
-  },
-  {
-    "name": "commercial-opportunities",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/commercial-opportunities/",
-    "level": "2"
-  },
   
   
-  {
-    "name": "start-here",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/start-here/",
-    "level": "2"
-  },
-  {
-    "name": "research-guides-keywords",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/research-guides-keywords/",
-    "level": "2"
-  },
-  {
-    "name": "record-copying",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/record-copying/",
-    "level": "2"
-  },
-  {
-    "name": "our-research-and-academic-collaboration",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/",
-    "level": "2"
-  },
-  {
-    "name": "press-room",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/press-room/",
-    "level": "2"
-  },
-  {
-    "name": "a-to-z",
-    "parent": "help",
-    "url": "http://www.nationalarchives.gov.uk/help/a-to-z/",
-    "level": "2"
-  },
-  {
-    "name": "web-accessibility",
-    "parent": "help",
-    "url": "http://www.nationalarchives.gov.uk/help/web-accessibility/",
-    "level": "2"
-  },
-  {
-    "name": "freedom-of-information",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/freedom-of-information/",
-    "level": "2"
-  },
   
-  {
-    "name": "research-guides",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/",
-    "level": "2"
-  },
   {
     "name": "record-copying-prices.pdf",
     "parent": "documents",
@@ -123,51 +15,9 @@
     "level": "2"
   },
   {
-    "name": "discovery-help",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/",
-    "level": "2"
-  },
-  {
-    "name": "video-guides",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/video-guides/",
-    "level": "2"
-  },
-  {
-    "name": "citing-documents-national-archives",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/citing-documents-national-archives/",
-    "level": "2"
-  },
-  {
-    "name": "paying-for-research",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/paying-for-research/",
-    "level": "2"
-  },
-  {
-    "name": "reading-old-documents",
-    "parent": "help-with-your-research",
-    "url": "http://www.nationalarchives.gov.uk/help-with-your-research/reading-old-documents/",
-    "level": "2"
-  },
-  {
     "name": "car-parking-faq-2018-03.pdf",
     "parent": "documents",
     "url": "http://www.nationalarchives.gov.uk/documents/car-parking-faq-2018-03.pdf",
-    "level": "2"
-  },
-  {
-    "name": "discovery-for-developers-about-the-application-programming-interface-api",
-    "parent": "help",
-    "url": "http://www.nationalarchives.gov.uk/help/discovery-for-developers-about-the-application-programming-interface-api/",
-    "level": "2"
-  },
-  {
-    "name": "making-payments-through-worldpay",
-    "parent": "help",
-    "url": "http://www.nationalarchives.gov.uk/help/making-payments-through-worldpay/",
     "level": "2"
   },
   {
@@ -198,66 +48,6 @@
     "name": "valuation-office-map-finder",
     "parent": "labs",
     "url": "http://www.nationalarchives.gov.uk/labs/valuation-office-map-finder/",
-    "level": "2"
-  },
-  {
-    "name": "privacy-policy",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/privacy-policy/",
-    "level": "2"
-  },
-  {
-    "name": "copyright",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/copyright/",
-    "level": "2"
-  },
-  {
-    "name": "takedown-and-reclosure-policy",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/takedown-and-reclosure-policy/",
-    "level": "2"
-  },
-  {
-    "name": "record-copying",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/record-copying/",
-    "level": "2"
-  },
-  {
-    "name": "booking-events",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/booking-events/",
-    "level": "2"
-  },
-  {
-    "name": "user-participation",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/user-participation/",
-    "level": "2"
-  },
-  {
-    "name": "our-fees",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/our-fees/",
-    "level": "2"
-  },
-  {
-    "name": "information-we-collect-online",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/information-we-collect-online/",
-    "level": "2"
-  },
-  {
-    "name": "cookies",
-    "parent": "legal",
-    "url": "http://www.nationalarchives.gov.uk/legal/cookies/",
-    "level": "2"
-  },
-  {
-    "name": "psi-updates.xml",
-    "parent": "rss",
-    "url": "http://www.nationalarchives.gov.uk/rss/psi-updates.xml",
     "level": "2"
   },
   {
@@ -1330,12 +1120,6 @@
     "level": "2"
   },
   {
-    "name": "e179",
-    "parent": "help",
-    "url": "http://www.nationalarchives.gov.uk/help/e179/",
-    "level": "2"
-  },
-  {
     "name": "default.htm",
     "parent": "cabinetpapers",
     "url": "http://www.nationalarchives.gov.uk/cabinetpapers/default.htm",
@@ -1375,12 +1159,6 @@
     "name": "search.asp",
     "parent": "hospitalrecords",
     "url": "http://www.nationalarchives.gov.uk/hospitalrecords/search.asp",
-    "level": "2"
-  },
-  {
-    "name": "hospitalrecords",
-    "parent": "help",
-    "url": "http://www.nationalarchives.gov.uk/help/hospitalrecords/",
     "level": "2"
   },
   {
@@ -2708,12 +2486,6 @@
     "level": "2"
   },
   {
-    "name": "record-transfer",
-    "parent": "about",
-    "url": "http://www.nationalarchives.gov.uk/about/record-transfer/",
-    "level": "2"
-  },
-  {
     "name": "mind-the-gap-report-jan-2014.pdf",
     "parent": "documents",
     "url": "http://www.nationalarchives.gov.uk/documents/mind-the-gap-report-jan-2014.pdf",
@@ -3481,12 +3253,6 @@
     "name": "default.htm",
     "parent": "PRONOM",
     "url": "http://www.nationalarchives.gov.uk/PRONOM/default.htm",
-    "level": "2"
-  },
-  {
-    "name": "psi-updates-new.xml",
-    "parent": "rss",
-    "url": "http://www.nationalarchives.gov.uk/rss/psi-updates-new.xml",
     "level": "2"
   },
   {
@@ -4453,12 +4219,6 @@
     "name": "maps-help.htm",
     "parent": "cabinetpapers",
     "url": "http://www.nationalarchives.gov.uk/cabinetpapers/maps-help.htm",
-    "level": "2"
-  },
-  {
-    "name": "authentication.htm",
-    "parent": "help",
-    "url": "http://www.nationalarchives.gov.uk/help/authentication.htm",
     "level": "2"
   },
   {
