@@ -3,12 +3,6 @@ import './App.css';
 import SitemapSelector from "./components/SitemapSelector";
 
 
-// function SiteTree (props) {
-//     render()
-//
-// }
-
-
 class App extends Component {
   render() {
     return (
